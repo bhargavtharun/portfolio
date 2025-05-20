@@ -1,4 +1,9 @@
-title: Praveen Meduri
-logo: /assets/praveen.png
+remote_theme: pages-themes/architect@v0.2.0
+title: PRAVEEN Meduri
+description: As a research engineer at Advanced Energy Materials, LLC, I apply my academic and research background, as well as my innovative and analytical skills, to develop and test new energy materials and devices for various industrial and environmental needs. I have a PhD in Chemical Engineering from the University of Louisville and a Bachelors in Chemical Engineering from Birla Institute of Technology and Science, Pilani, with over 15 years of experience in the field of energy conversion and storage.
+I have invented novel materials and techniques, such as metal nanoclusters covered metal oxide nanowires as high capacity stable anode materials for lithium ion batteries, large area synthesis of SnO2 and carbon microtubes using chemical vapor deposition, and a new surface area determination technique for nanomaterials. I have also published multiple papers in prestigious journals, and obtained multiple patents for my inventions. I have expertise in material synthesis by numerous CVD and PVD techniques, lithium ion battery fabrication, electrochemical testing and analysis, and characterization techniques, such as SEM, XRD, Raman spectroscopy, and TEM. I also have skills in scattering and research proposals. My mission is to contribute to the advancement of science and technology in the field of energy materials and devices, and to create sustainable and efficient solutions for the global energy challenges
+logo: /assets/img/praveen.png
 show_downloads: true
-theme: jekyll-theme-minimal
+plugins:
+- jekyll-remote-theme 
+gem "github-pages", group: :jekyll_plugins
