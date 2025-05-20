@@ -1,11 +1,16 @@
-# Data Scientist
+# Assistant Professor @ Oklahoma State University
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### About
+As a research engineer at Advanced Energy Materials, LLC, I apply my academic and research background, as well as my innovative and analytical skills, to develop and test new energy materials and devices for various industrial and environmental needs. I have a PhD in Chemical Engineering from the University of Louisville and a Bachelors in Chemical Engineering from Birla Institute of Technology and Science, Pilani, with over 15 years of experience in the field of energy conversion and storage.
+
+I have invented novel materials and techniques, such as metal nanoclusters covered metal oxide nanowires as high capacity stable anode materials for lithium ion batteries, large area synthesis of SnO2 and carbon microtubes using chemical vapor deposition, and a new surface area determination technique for nanomaterials. I have also published multiple papers in prestigious journals, and obtained multiple patents for my inventions. I have expertise in material synthesis by numerous CVD and PVD techniques, lithium ion battery fabrication, electrochemical testing and analysis, and characterization techniques, such as SEM, XRD, Raman spectroscopy, and TEM. I also have skills in scattering and research proposals. My mission is to contribute to the advancement of science and technology in the field of energy materials and devices, and to create sustainable and efficient solutions for the global energy challenges.
+
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Chemical Engineering | University of Louisville (_May 2010_)								       		
+- M.S., Chemical Engineering	| University of Arkon(_May 2005_)	 			        		
+- B.Tech., Chemical Engineering | Birla Institute of Technology and Science, Pilani (_May 2003_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
@@ -42,14 +47,13 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Praveen Meduri, E. Clark, J. H. Kim, G. U. Sumanasekera, M. K. Sunkara, Nanoletters 12(4), 1784 (2012).
+2. M. K. Sunkara, C. Pendyala D. Cummins, P. Meduri, J. Jasinski, V. Kumar, H. B. Russell, E. L. Clark, J. H. Kim, J. Phys. D: Appl. Phys. 44, 174032 (2011).
+3. Praveen Meduri, E. Clark, E. Dayalan, G. U. Sumanasekera, M. K. Sunkara, Energy Environ. Sci. 4, 1695 (2011).
+4. Praveen Meduri, J. H. Kim, H. R. Benjamin, J. Jasinksi, G. U. Sumanasekera, M. K. Sunkara, J. Phys. Chem. C 114, 10621 (2010).
+5. Praveen Meduri, C. Pendyala, V. Kumar, G. U. Sumanasekera, M. K. Sunkara, Nano lett. 9(2), 612 (2009).
+6. Praveen Meduri et. al., J. Nanosci. Nanotechn. 8, 3153(2008).
+7. S. Dumpala, G. Bhimarasetti, S. Gubbala, P. Meduri, S. Kona, M. K. Sunkara, Smart Materials edited by M Schwartz, (2008).Xiaolin Li, Praveen Meduri, Xilin Chen, Wen Qi, Mark H Engelhard, Wu Xu, Fei Ding, Jie Xiao, Wei Wang, Chongmin Wang, Ji-Guang Zhang and Jun Liu, “Hollow Core-Shell Structured Porous Si-C Nanocomposites for Li-Ion Battery Anodes” J. Mater. Chem. 2012, DOI: 10.1039/C2JM31286G.
+8. Praveen Meduri, Honghao Chen, Xilin Chen, Jie Xiao, Mark E. Gross, Thomas J. Carlson, Ji-Guang Zhang, and Z. Daniel Deng, “Hybrid CFx-Ag2V4O11 as a high-energy, power density cathode for application in an underwater acoustic microtransmitter” Electrochem. Commun. 13(12), 1344 (2011).
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Linkedin](https://www.linkedin.com/in/praveen-meduri-71052910)
